@@ -1,78 +1,73 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
+  title : "Despigmentantes"
+  content : "Aclarante y despigmentante que brinda a la piel de forma inmediata una apariencia uniforme."
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "VER MAS"
    link : "products"
 
 ############################# Feature ############################
 features:
   enable : true
-  title : "Our Core Features"
+  title : "Nuestras Características Principales"
   image : "images/watch-2.png"
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Tacto suave"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : ""
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Diseño elegante"
     icon : "tf-ion-ios-bell-outline"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
     
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Precios fáciles"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : ""
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "Smooth Touch"
+  - title : "Tacto suave"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : ""
 
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Diseño elegante"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : ""
 
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Precios fáciles"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : ""
 
 
 ############################# promo ############################
 promo:
   enable : true
   image : "images/watch.png"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
+  title : "Nosotros"
+  content : "En la sociedad moderna, la lucha contra el paso del tiempo comienza cada vez más temprano y mantener un aspecto joven y saludable ha cobrado una importancia relevante. Muchas personas sienten ansiedad ante los signos visibles del envejecimiento y buscan el consejo de un profesional de la salud, para mantener una piel sana y atractiva, siendo éste el gran reto que tienen por delante todos los especialistas dedicados al cuidado de la piel."
 
 
 ############################# About Product #######################
 about_product:
   enable : true
-  title : "Why Choose Apple Watch"
+  title : "Nosotros?"
   items:
     # about product item loop
     - image : "images/showcase/showcase-4.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "Nosotros"
+      content : "Medihealth, con más de 25 años de experiencia en el desarrollo de productos dermatológicos de prescripción médica para el cuidado de la piel, presenta la línea de productos dermo-cosméticos para tratar el envejecimiento cutáneo, elaborada con activos biodisponibles que aportan los elementos necesarios para revitalizar la piel y darle un aspecto más joven, luminoso y atractivo: Hidrisage."
       button:
         enable : false
         label : "Check Features"
@@ -80,29 +75,31 @@ about_product:
         
     # about product item loop
     - image : "images/showcase/showcase-3.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "Ma´at Mousse Maquillaje Corrector"
+      content : "Cubre imperfecciones<br>
+      Antiacné<br>
+Alta protección solar<br>
+Maat - Hidrisage<br>
+Maat - Hidrisage"
       button:
         enable : false
-        label : "Check Features"
+        label : "Ver características"
         link : "#"
 
 
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Echa un vistazo a todos nuestros productos"
 
 
 ################################## Subscription ###################
 subscription:
   enable : true
   bg_image : "images/call-to-action.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder : "Your Email Address Here"
+  title : "Newsletter"
+  content : "Suscríbete a nuestro boletín para recibir notificaciones sobre nuevas actualizaciones, información y descuentos."
+  placeholder : "Suscríbete"
 
 
 ############################## Testimonial ##########################
@@ -111,19 +108,19 @@ testimonial:
   title : "Watch Review"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
+    - name : "Raquel Acosta"
+      designation : ""
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "Estoy muy satisfecha, tiene una textura muy linda y lo puedo aplicar sin problemas antes de maquillarme."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
+    - name : "Lola Suarez"
+      designation : ""
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "Me gusta mucho este producto, no deja mi piel grasosa ni blanca."
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
+    - name : "kristina heredia"
       designation : "CEO, Themefisher"
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "Simplemente me encanto. Deja a piel muy suave y tiene un agradable aroma, da una apariencia muy natural a la piel... aparte de que me protege queda muy bien con el maquillaje."
