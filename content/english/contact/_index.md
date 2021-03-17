@@ -1,13 +1,13 @@
 ---
-title: "Contact"
-description : "this is a meta description"
+title: "Contacto"
+description : "Contacta con nosotros, estaremos encantados de ayudarte."
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
+  title : "Office"
+  mobile : "+51972180593"
   email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  location : "Mariano Angulo 2421, Cercado de Lima"
+  content : "Contacta con nosotros, estaremos encantados de ayudarte."
 
 # opennig hour
 opennig_hour:

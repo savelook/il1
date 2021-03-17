@@ -1,6 +1,6 @@
 ---
-title: "All latest Smart Watch"
-description : "this is a meta description"
+title: "Hidratante"
+description : "Aquaprim es un novedoso hidratante no graso y de rápida absorción especialmente diseñado para la piel del rostro, cuello, escote y manos."
 draft: false
 ---
 

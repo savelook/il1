@@ -1,5 +1,5 @@
 ---
-title: "Our Latest Post"
-description : "this is a meta description"
+title: "Blog il1.vercel.app"
+description : "blog"
 draft: false
 ---
