@@ -5,7 +5,7 @@ description : "Contacta con nosotros, estaremos encantados de ayudarte."
 office:
   title : "Office"
   mobile : "+51972180593"
-  email : "demo@email.com"
+  email : "info@il1.vercel.app"
   location : "Mariano Angulo 2421, Cercado de Lima"
   content : "Contacta con nosotros, estaremos encantados de ayudarte."
 
